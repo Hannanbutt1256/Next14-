@@ -1,9 +1,7 @@
-"use client"
-"use module"
+"use client";
+"use module";
 const Error = () => {
-  return(
-  <div>Error</div>
-  )
+  return <div>Error</div>;
 };
 
 export default Error;
